@@ -40,4 +40,4 @@ Aplicação mobile com objetivo de auxiliar os idosos e seus cuidadores na rotin
 - outros
 
 ## Licença
-Este projeto está sob a licença [MIT]()
+Este projeto está sob a licença [MIT](https://github.com/Alencar26/unidosos/blob/main/LICENSE)
