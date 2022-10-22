@@ -11,12 +11,12 @@ Aplicação mobile com objetivo de auxiliar os idosos e seus cuidadores na rotin
 
 *O projeto foi desenvolvido no 6º período do curso de Engenharia de Software.*
 
-![unidosos](unidosos.png)
+![unidosos](https://github.com/Alencar26/unidosos/blob/main/img/unidosos.png)
 
 
 ## Tela do Projeto
 
-![telas](telas.png)
+![telas](https://github.com/Alencar26/unidosos/blob/main/img/telas.png)
 
 ## Tecnologia  Utilizada
 
