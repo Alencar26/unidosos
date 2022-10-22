@@ -12,7 +12,10 @@ Aplicação mobile com objetivo de auxiliar os idosos e seus cuidadores na rotin
 *O projeto foi desenvolvido no 6º período do curso de Engenharia de Software.*
 
 ![unidosos](https://github.com/Alencar26/unidosos/blob/main/img/unidosos.png)
-
+![GitHub language count](https://img.shields.io/github/languages/count/Alencar26/unidosos)
+![GitHub top language](https://img.shields.io/github/languages/top/Alencar26/unidosos?color=%23FF7043)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alencar26/unidosos)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Alencar26/unidosos/blob/main/LICENSE)
 
 ## Tela do Projeto
 
